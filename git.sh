@@ -1,1 +1,1 @@
-git add parser.y lexer.lex makefile *.hpp git.sh  && git commit && git push
+git add parser.y lexer.lex makefile *.hpp mem.cpp git.sh  && git commit && git push

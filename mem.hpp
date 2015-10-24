@@ -4,7 +4,7 @@
 class mem
 {
 private:
-	char* memory;
+	char* memory; // 30000 cells
 	int index;
 
 public:
